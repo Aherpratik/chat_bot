@@ -1,0 +1,308 @@
+[
+ {
+  "intent": "welcomegreeting",
+  "responses": [
+   "Hello, Kindly choose from one of the following to get started."
+  ]
+ },
+ {
+  "intent": "about_college",
+  "responses": [
+   "Jawahar Education Society's Institute of Technology,Management & Research (JIT,Nashik) was established in 2012 under the state of maharashtra education & recognized by University Grants Commission (UGC). For more details please choose from below options."
+  ]
+ },
+ {
+  "intent": "student_strength",
+  "responses": [
+   "We have 800+ students studying with us."
+  ]
+ },
+ {
+  "intent": "campus_visit",
+  "responses": [
+   "To visit the campus you can proceed by choosing further below options."
+  ]
+ },
+ {
+  "intent": "address",
+  "responses": [
+   "The address of JIT is: Jawahar Education Societys,Institute of Technology, Management & Research, Survey No 48, Gowardhan, Gangapur Road, Nashik - 422 222. Maharashtra, India"
+  ]
+ },
+ {
+  "intent": "visit_hours",
+  "responses": [
+   "You can visit us between 9 AM to 2 PM from MONDAY to SATURDAY."
+  ]
+ },
+ {
+  "intent": "contact",
+  "responses": [
+   "You can contact us on: 0253 2970077, 0253 2970078 , 9022025101 , Email us on: jitnashik2012@gmail.com, principaljitnashik@rediffmail.com"
+  ]
+ },
+ {
+  "intent": "course",
+  "responses": [
+   "We provide below mentioned courses. Please select one to know more."
+  ]
+ },
+ {
+  "intent": "computer_engineering",
+  "responses": [
+   "What do you want to know about Computer engineering? Please choose further to know."
+  ]
+ },
+ {
+  "intent": "computer_intake",
+  "responses": [
+   "Please select one from below options"
+  ]
+ },
+ {
+  "intent": "computer_first",
+  "responses": [
+   "JIT has intake of 120 students for First Year"
+  ]
+ },
+ {
+  "intent": "computer_dsy",
+  "responses": [
+   "JIT has intake of 20 students for DSY[NOTE: Intake number varies every academic year.]"
+  ]
+ },
+ {
+  "intent": "computer_fee",
+  "responses": [
+   "Select a category to know the fee"
+  ]
+ },
+ {
+  "intent": "open_fee",
+  "responses": [
+   "Fee for an OPEN category student is : RS 72000 (Excluding university exam fee)"
+  ]
+ },
+ {
+  "intent": "obc_fee",
+  "responses": [
+   "Fee for an OBC category student is : RS 55000 (Excluding university exam fee)"
+  ]
+ },
+ {
+  "intent": "scst_fee",
+  "responses": [
+   "Fee for a SC/ST category student is RS ABC (Excluding university exam fee)"
+  ]
+ },
+ {
+  "intent": "computer_criteria",
+  "responses": [
+   "The criteria for Engineering in JIT are as follows: A minimum aggregate of 50% or equivalent in 10+2.Compulsory Subjects: Physics & Mathematics; and anyone of the following: Chemistry, Computer Science. Minimum passing mark is essential in each of the subject."
+  ]
+ },
+ {
+  "intent": "computer_duration",
+  "responses": [
+   "The duration for the Engineering offered at JIT is 4 years."
+  ]
+ },
+ {
+  "intent": "mechanical_engineering",
+  "responses": [
+   "What do you want to know about Mechanical engineering? Please choose further to know."
+  ]
+ },
+ {
+  "intent": "mechanical_intake",
+  "responses": [
+   "Please select one from below options"
+  ]
+ },
+ {
+  "intent": "mechanical_first",
+  "responses": [
+   "JIT has intake of 120 students for First Year"
+  ]
+ },
+ {
+  "intent": "mechanical_dsy",
+  "responses": [
+   "JIT has intake of 20 students for DSY[NOTE: Intake number varies every academic year.]"
+  ]
+ },
+ {
+  "intent": "mechanical_fee",
+  "responses": [
+   "Select a category to know the fee"
+  ]
+ },
+ {
+  "intent": "mechanical_criteria",
+  "responses": [
+   "The criteria for Engineering in JIT are as follows: A minimum aggregate of 50% or equivalent in 10+2.Compulsory Subjects: Physics & Mathematics; and anyone of the following: Chemistry, Computer Science. Minimum passing mark is essential in each of the subject."
+  ]
+ },
+ {
+  "intent": "mechanical_duration",
+  "responses": [
+   "The duration for the Engineering offered at JIT is 4 years."
+  ]
+ },
+ {
+  "intent": "civil_engineering",
+  "responses": [
+   "What do you want to know about Civil engineering? Please choose further to know."
+  ]
+ },
+ {
+  "intent": "civil_intake",
+  "responses": [
+   "Please select one from below options"
+  ]
+ },
+ {
+  "intent": "civil_first",
+  "responses": [
+   "JIT has intake of 120 students for First Year"
+  ]
+ },
+ {
+  "intent": "civil_dsy",
+  "responses": [
+   "JIT has intake of 20 students for DSY[NOTE: Intake number varies every academic year.]"
+  ]
+ },
+ {
+  "intent": "civil_fee",
+  "responses": [
+   "Select a category to know the fee"
+  ]
+ },
+ {
+  "intent": "civil_criteria",
+  "responses": [
+   "The criteria for Engineering in JIT are as follows: A minimum aggregate of 50% or equivalent in 10+2.Compulsory Subjects: Physics & Mathematics; and anyone of the following: Chemistry, Computer Science. Minimum passing mark is essential in each of the subject."
+  ]
+ },
+ {
+  "intent": "civil_duration",
+  "responses": [
+   "The duration for the Engineering offered at JIT is 4 years."
+  ]
+ },
+ {
+  "intent": "electrical_engineering",
+  "responses": [
+   "What do you want to know about Electrical engineering? Please choose further to know."
+  ]
+ },
+ {
+  "intent": "electrical_intake",
+  "responses": [
+   "Please select one from below options"
+  ]
+ },
+ {
+  "intent": "electrical_first",
+  "responses": [
+   "JIT has intake of 120 students for First Year"
+  ]
+ },
+ {
+  "intent": "electrical_dsy",
+  "responses": [
+   "JIT has intake of 20 students for DSY[NOTE: Intake number varies every academic year.]"
+  ]
+ },
+ {
+  "intent": "electrical_fee",
+  "responses": [
+   "Select a category to know the fee"
+  ]
+ },
+ {
+  "intent": "electrical_criteria",
+  "responses": [
+   "The criteria for Engineering in JIT are as follows: A minimum aggregate of 50% or equivalent in 10+2.Compulsory Subjects: Physics & Mathematics; and anyone of the following: Chemistry, Computer Science. Minimum passing mark is essential in each of the subject."
+  ]
+ },
+ {
+  "intent": "electrical_duration",
+  "responses": [
+   "The duration for the Engineering offered at JIT is 4 years."
+  ]
+ },
+ {
+  "intent": "ai&ds_engineering",
+  "responses": [
+   "What do you want to know about AI&DS? Please choose further to know."
+  ]
+ },
+ {
+  "intent": "ai&ds_intake",
+  "responses": [
+   "Please select one from below options"
+  ]
+ },
+ {
+  "intent": "ai&ds_first",
+  "responses": [
+   "JIT has intake of 120 students for First Year"
+  ]
+ },
+ {
+  "intent": "ai&ds_dsy",
+  "responses": [
+   "JIT has intake of 20 students for DSY[NOTE: Intake number varies every academic year.]"
+  ]
+ },
+ {
+  "intent": "ai&ds_fee",
+  "responses": [
+   "Select a category to know the fee"
+  ]
+ },
+ {
+  "intent": "ai&ds_criteria",
+  "responses": [
+   "The criteria for Engineering in JIT are as follows: A minimum aggregate of 50% or equivalent in 10+2.Compulsory Subjects: Physics & Mathematics; and anyone of the following: Chemistry, Computer Science. Minimum passing mark is essential in each of the subject."
+  ]
+ },
+ {
+  "intent": "ai&ds_duration",
+  "responses": [
+   "The duration for the Engineering offered at JIT is 4 years."
+  ]
+ },
+ {
+  "intent": "admission_enquiry",
+  "responses": [
+   "Please follow the link for admission enquiry process- https://www.jitnashik.edu.in/admission.php"
+  ]
+ },
+ {
+  "intent": "scholorship",
+  "responses": [
+   "The scholorship is provided to CAP enrolled students only. College follows the MAHADBT scholorships provided by government of maharashtra. Click on the link to know more: https://mahadbt.maharashtra.gov.in/"
+  ]
+ },
+ {
+  "intent": "endgreeting",
+  "responses": [
+   "Goodbye! have a good day. Hope to see you again."
+  ]
+ },
+ {
+  "intent": "thankgreet",
+  "responses": [
+   "It's my pleasure to help you. See you soon."
+  ]
+ },
+ {
+   "intent": "no_indent",
+   "responses": [
+      "Sorry I didn't understant your query kindly choose from below options."
+   ]
+ }
+]
